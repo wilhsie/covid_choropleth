@@ -15,3 +15,4 @@ npm start
 
 # Links
  - [California county GeoJSON](https://wifire-data.sdsc.edu/nl/dataset/counties-in-california/resource/1dba9680-5ed6-4061-b070-165d394b0508?inner_span=True)
+ - [D3.js Choropleth examples](https://observablehq.com/@d3/choropleth/2?intent=fork)

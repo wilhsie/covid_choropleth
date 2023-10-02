@@ -1,2 +1,3 @@
 **/__pycache__
 .vscode/
+**/covid_choropleth/node_modules
