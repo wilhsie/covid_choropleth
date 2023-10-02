@@ -1,0 +1,6 @@
+{
+    "scripts": {
+      "start": "cd covid_choropleth && npm start",
+      "install": "cd covid_choropleth && npm install"
+    }
+  }
